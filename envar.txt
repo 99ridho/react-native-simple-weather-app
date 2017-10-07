@@ -1,0 +1,10 @@
+Pastikan Environment Variabel untuk 
+JAVA_HOME dan ANDROID_HOME telah diset sesuai
+masing2 OS
+
+1. Windows => Search Environment Variable lalu open
+2. Linux / OSX => Edit file .bashrc (kalo pake Bash) atau .zshrc (kalo pake ZSH)
+
+3. Untuk Linux / OSX isikan:
+export ANDROID_HOME=/sesuaikan/dengan/path/androidsdk
+export JAVA_HOME=/sesuaikan/dengan/path/javasdk
